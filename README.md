@@ -71,3 +71,10 @@ HOW TO START
 Самый простой вариант — публиковать ссылки на портале Reddit в нужных подразделах с тематикой «программирование». 
 Это обеспечивает больший отклик, чем публикация на любом русскоязычном сайте. 
 Естественно, стоит рассказать о проекте и на таких ресурсах, как Хабр, DTF и в тематических группах ВК.
+
+
+LEARN MORE
+https://blog.geekbrains.by/18-open-source-projects-dlja-praktiki-programmirovanija/
+
+https://journal.tinkoff.ru/open-source/#five
+
